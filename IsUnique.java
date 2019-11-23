@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Arrays;
 
 // Assumed string can be consisted of max 256 different characters.
